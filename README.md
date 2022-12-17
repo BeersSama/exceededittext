@@ -5,6 +5,7 @@
 
 A simple way to limit the number of input value characters, using Paint() in combination with onDraw(),
 to create a background in the Edittext, this fixed the cursor loss on the BackgroundSpan
+<img src="./media/exceedtext.gif" alt="exceedEdittext" title="exceedEdittext" />
 
 #### [ExceedEdittext](./exceededittext/src/main/java/com/beerus/exceededittext/widgets/ExceedEdittext.kt)
 
