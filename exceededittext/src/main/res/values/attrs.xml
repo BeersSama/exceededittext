@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExceedEdittext">
+        <attr name="highLightColor" format="color" />
+        <attr name="maxCharacter" format="integer" />
+    </declare-styleable>
+</resources>

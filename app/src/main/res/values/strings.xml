@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExceedEdittext</string>
+    <string name="exceed">Exceed %s</string>
+    <string name="submit">Submit</string>
+</resources>
