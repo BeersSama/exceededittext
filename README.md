@@ -24,10 +24,7 @@ Used to define how to format the text.
 ```
 
 Other params in Widget
-```
-    app:highLightColor="@color/colorHighlightExceed"
-    app:maxCharacter="5"
-    
+``` 
     highLightColor: Background exceed of edittext
     maxCharacter: Limit char count of edittext.
 ```
