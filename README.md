@@ -1,5 +1,6 @@
 # Exceed Edittext
 
+[![](https://www.jitpack.io/v/BeersSama/exceededittext.svg)](https://jitpack.io/#BeersSama/exceededittext)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 A simple way to limit the number of input value characters, using Paint() in combination with onDraw(),
@@ -50,7 +51,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.beerus:exceededittext:1.0.0'
+    implementation 'com.github.BeersSama:exceededittext:1.0.0'
 }
 ```
 
